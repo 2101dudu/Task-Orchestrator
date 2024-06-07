@@ -2,7 +2,7 @@
 
 <h3 align="center">Made using the C programming language during the 2st semester of the 2nd year</h3> 
 
-<h1 align="center">Final Grade: -/20💫</h1>
+<h1 align="center">Final Grade: 19/20💎</h1>
 
 ## About
 
