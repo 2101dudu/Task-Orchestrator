@@ -14,7 +14,7 @@ A C-based server that executes bash commands from multiple concurrent clients ma
 - Server-to-client communication via named pipes
 - Scalability via scheduling algorithms
 - Multiple client requests
-- Computation all on the server´s side
+- Computation is all done on the server's side
 - Great error handling 
 
 ## Preview
